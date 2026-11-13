@@ -1,0 +1,22 @@
+{
+  "version": "0.9.0",
+  "date": "2026-11-13",
+  "files": {
+    "android": {
+      "platform": "android",
+      "filename": "XShare-v0.9-Android.apk",
+      "size": 76418246,
+      "sha256": "2ce6330886a75e5b1bfee4f41ab1268bc215071dc379fb515dc493a88f8a95c7",
+      "mime": "application/vnd.android.package-archive",
+      "url": "https://github.com/abdoEngFlutter/x-share/releases/download/v0.9/XShare-v0.9-Android.apk"
+    },
+    "windows": {
+      "platform": "windows",
+      "filename": "XShare-v0.9-Windows-Setup.exe",
+      "size": 11426662,
+      "sha256": "55cce2564d50fa45d30f539faf71e7b7fef1399aaf8b50011ab7a6ae21e107d4",
+      "mime": "application/vnd.microsoft.portable-executable",
+      "url": "https://github.com/abdoEngFlutter/x-share/releases/download/v0.9/XShare-v0.9-Windows-Setup.exe"
+    }
+  }
+}
